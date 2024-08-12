@@ -1,4 +1,5 @@
-# Zero-JavaScript-Challenge-Solutions
+## حل تحديات لغة JavaScript من اكاديمية الزيرو ويب التعليمية 
+## Solving JavaScript Challenges From Elzero Web School. 
 
 
 ### تمت_اضافت_حل_تكليف_الفديو_رقم_37_من_كرس_JS
