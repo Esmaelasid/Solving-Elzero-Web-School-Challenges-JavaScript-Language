@@ -1,7 +1,7 @@
 // =================================    1
 
 
-/* let a = 10;
+ let a = 10;
 let b = "20";
 let c = 80;
 
@@ -32,12 +32,12 @@ console.log(--c + +b + --a * +b++ - +b * a + --a - +true);
 // [b = 22] 
 // [c = 81] 
 
- */
+ 
 
 
 // =================================    2
 
-/* 
+
 
 let d = "-100";      let e = "20";   let f = 30;      let g = true;
 // console.log( 2000                    ONE
@@ -60,4 +60,3 @@ console.log(e * g ) ;                      console.log(21 * 2);          // 42
 console.log( -d + f) ;                    console.log(100 + 31 )        //  131
 // 
 console.log( -d ) ;                                                     //  100
- */
